@@ -1,0 +1,3 @@
+hasta 550 - normal
+de 550 hsata 700 - advertencia
+de 700 para arriba - peligro

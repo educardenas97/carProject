@@ -1,0 +1,3 @@
+de 400 para abajo normal
+de 401 hasta 600 advertencia
+de 600 para arriba critico

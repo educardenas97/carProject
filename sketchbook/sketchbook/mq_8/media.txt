@@ -1,0 +1,3 @@
+bajo: 150, hasta 180
+medio: 180 hasta 210
+alto: 210 para arriba

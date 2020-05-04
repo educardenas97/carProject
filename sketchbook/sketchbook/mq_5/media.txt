@@ -1,0 +1,3 @@
+de 0 hasta 180 - normal
+de 180 hasta 260 - advertencia
+de 260 hasta infinito - peligro
